@@ -50,7 +50,7 @@ header .smenubox .left h2 {font-size:30px;font-weight:700;line-height:70px;paddi
 header .smenubox .left h2:after {content:"";display:block;width:20px;height:3px;background:#000;}
 header .smenubox .left p {font-size:12px;font-weight:100;line-height:20px;color:#888;padding-top:15px;}
 
-header .smenubox .right {background:#f4f4f4;width:70%;padding-right:15%;}
+header .smenubox .right {background:#FFF;width:70%;padding-right:15%;}
 header .smenubox .right ul {width:100%;border-bottom:1px solid #ddd;}
 header .smenubox .right ul:last-child {border:0;}
 header .smenubox .right ul li {display:inline-block;margin:0 12px;}
