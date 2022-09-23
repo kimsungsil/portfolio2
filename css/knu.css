@@ -77,7 +77,7 @@ header .smenubox .right ul li:nth-child(1) a {font-size:15px;font-weight:400;mar
 #bookmark .btitle h4 {font-size:12px;font-weight:200;line-height:20px;color:#888;}
 
 
-#bookmark .bitem {float:right;width:75%;font-size:0;padding:20px;border:3px solid #FFF;}
+#bookmark .bitem {float:right;width:75%;font-size:0;padding:20px;border:3px solid #eee;}
 #bookmark .bitem li {cursor:pointer;}
 #bookmark .bitem li a {float:left;font-size:16px;font-weight:300;line-height:60px;text-align:center;margin:0px 50px;}
 #bookmark .bitem li i:nth-of-type(2) {float:right;padding-right:10px;font-size:22px;line-height:60px;color:#ddd;}
